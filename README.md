@@ -15,3 +15,6 @@ It is imperative that the manual is consulted for guidance on each step; the cod
 The subsequent stage of the process is to prepare rasters for the maximum flow depth and maximum flow velocity, which are to be derived from the dynamic model results.
 
 The code has been tested using Spyder (Phyton 3.12) and can be used with Python.
+
+# Plot Result View
+<img width="388" height="373" alt="image" src="https://github.com/user-attachments/assets/43654848-cea2-4704-8e20-6a7ae9ba4a43" />
