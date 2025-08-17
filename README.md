@@ -6,5 +6,7 @@ The following relationship between flood speed and depth is indicated in the 201
 
 The range is delineated by two lines: the lower and upper limits. The area below the lower limit is designated as the low danger zone, the area above the upper limit is designated as the high danger zone, and the area in between is designated as the medium danger zone.
 The boundary line is to be transformed into two lines in the X and Y axes, as follows:
+
 <img width="302" height="908" alt="image" src="https://github.com/user-attachments/assets/f339503b-8d77-4ca1-90ef-7e5933c70ba6" />
+
 It is imperative that the manual is consulted for guidance on each step; the code can be found in the code file.
