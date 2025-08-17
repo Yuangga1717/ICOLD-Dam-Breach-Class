@@ -4,13 +4,15 @@
 
 This is for the location where the folder path of the results will be shown. Include the extracted shapefile. put the flood depth and flood velocity tif file inside this folder
 
+Change this folder path to the folder containing the raster files for flood depth and flood velocity. 
+
     depth_file = os.path.join(folder, "2. depth overtopping p14 loc2.tif")
 
-This is flood depth raster file
+This is flood depth raster file, change this part 2. depth overtopping p14 loc2.tif as your flood depth raster file name
 
     velocity_file = os.path.join(folder, "1. velocity overtopping p13 loc1.tif")
 
-This is flood velocity raster file
+This is flood velocity raster file, change this part 1. velocity overtopping p13 loc1.tif as your flood velocity raster file name
 
     output_folder = os.getcwd()
     os.makedirs(output_folder, exist_ok=True)
