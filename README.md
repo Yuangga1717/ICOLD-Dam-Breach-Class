@@ -10,3 +10,8 @@ The boundary line is to be transformed into two lines in the X and Y axes, as fo
 <img width="302" height="908" alt="image" src="https://github.com/user-attachments/assets/f339503b-8d77-4ca1-90ef-7e5933c70ba6" />
 
 It is imperative that the manual is consulted for guidance on each step; the code can be found in the code file.
+
+# Data and Program Use
+The subsequent stage of the process is to prepare rasters for the maximum flow depth and maximum flow velocity, which are to be derived from the dynamic model results.
+
+The code has been tested using Spyder (Phyton 3.12) and can be used with Python.
